@@ -49,8 +49,7 @@ Output Example
 - Green dots → Successfully delivered packets  
 - Red dots → Lost packets
 Packet Transmission Visualization
-![Graph](images/graph.png)
-
+<img width="395" height="119" alt="image" src="https://github.com/user-attachments/assets/93acd9a3-7490-4a7e-bd75-de5b4c11c8e0" />
 
 The program also prints:
 
@@ -62,7 +61,16 @@ The project includes a real-time animation where:
 - Red = Lost
 - 
 - Animation Preview
-![Animation](images/animation.png)
+  <img width="398" height="350" alt="image" src="https://github.com/user-attachments/assets/70b55fd3-ca8b-42a2-94ee-c2249fc4acf0" />
+  <img width="255" height="457" alt="image" src="https://github.com/user-attachments/assets/689565d4-9210-4616-9a59-73c8b0540e68" />
+  <img width="256" height="459" alt="image" src="https://github.com/user-attachments/assets/ba9f3c89-1f0b-42e5-a250-70b911363a5e" />
+  <img width="255" height="460" alt="image" src="https://github.com/user-attachments/assets/ef5ef134-15b9-4012-9968-7a99dd0b19b7" />
+  <img width="255" height="464" alt="image" src="https://github.com/user-attachments/assets/ab3d7ec4-d7ec-483f-993b-37b3429888aa" />
+  <img width="253" height="450" alt="image" src="https://github.com/user-attachments/assets/44b7229c-8919-44dd-bcad-05e12a8f2be9" />
+  <img width="258" height="455" alt="image" src="https://github.com/user-attachments/assets/b7488cee-ca5d-4cff-b733-d33373700d42" />
+  <img width="258" height="460" alt="image" src="https://github.com/user-attachments/assets/747c818d-29d1-4160-9067-f843061946c4" />
+  <img width="254" height="450" alt="image" src="https://github.com/user-attachments/assets/4ec9ec57-3c1d-435d-a531-9a5c7f007bd9" />
+  <img width="252" height="460" alt="image" src="https://github.com/user-attachments/assets/a5206cda-762d-460f-adfd-9fd04da402dd" />
 
 This helps visualize packet flow dynamically.
 
