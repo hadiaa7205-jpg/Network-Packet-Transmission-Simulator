@@ -58,7 +58,8 @@ The project includes a real-time animation where:
 - Packets appear one by one
 - Green = Delivered
 - Red = Lost
-Animation Preview
+- 
+ Animation Preview
 
   <img width="398" height="350" alt="image" src="https://github.com/user-attachments/assets/70b55fd3-ca8b-42a2-94ee-c2249fc4acf0" />
   <img width="255" height="457" alt="image" src="https://github.com/user-attachments/assets/689565d4-9210-4616-9a59-73c8b0540e68" />
