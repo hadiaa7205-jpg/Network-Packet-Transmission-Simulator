@@ -74,3 +74,7 @@ You can modify:
 python
 num_packets = 20
 packet_loss_probability = 0.2
+Packet Transmission Visualization
+![Graph](images/graph.png)
+Animation Preview
+![Animation](images/animation.png)
