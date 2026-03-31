@@ -47,6 +47,7 @@ Output Example
 - Green dots → Successfully delivered packets  
 - Red dots → Lost packets
 Packet Transmission Visualization
+
 <img width="395" height="119" alt="image" src="https://github.com/user-attachments/assets/93acd9a3-7490-4a7e-bd75-de5b4c11c8e0" />
 
 The program also prints:
@@ -57,8 +58,8 @@ The project includes a real-time animation where:
 - Packets appear one by one
 - Green = Delivered
 - Red = Lost
-- 
-- Animation Preview
+Animation Preview
+
   <img width="398" height="350" alt="image" src="https://github.com/user-attachments/assets/70b55fd3-ca8b-42a2-94ee-c2249fc4acf0" />
   <img width="255" height="457" alt="image" src="https://github.com/user-attachments/assets/689565d4-9210-4616-9a59-73c8b0540e68" />
   <img width="256" height="459" alt="image" src="https://github.com/user-attachments/assets/ba9f3c89-1f0b-42e5-a250-70b911363a5e" />
