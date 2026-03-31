@@ -23,8 +23,6 @@ This helps in understanding:
 - Packet loss impact
 - Basic communication system behavior
 
----
-
 Technologies Used
 
 - Python
