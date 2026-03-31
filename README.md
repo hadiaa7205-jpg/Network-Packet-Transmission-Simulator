@@ -47,7 +47,10 @@ Project Structure
 Output Example
 
 - Green dots → Successfully delivered packets  
-- Red dots → Lost packets  
+- Red dots → Lost packets
+Packet Transmission Visualization
+![Graph](images/graph.png)
+
 
 The program also prints:
 
@@ -57,6 +60,9 @@ The project includes a real-time animation where:
 - Packets appear one by one
 - Green = Delivered
 - Red = Lost
+- 
+- Animation Preview
+![Animation](images/animation.png)
 
 This helps visualize packet flow dynamically.
 
@@ -74,7 +80,3 @@ You can modify:
 python
 num_packets = 20
 packet_loss_probability = 0.2
-Packet Transmission Visualization
-![Graph](images/graph.png)
-Animation Preview
-![Animation](images/animation.png)
